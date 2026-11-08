@@ -1,9 +1,9 @@
 {
-    "owner": {
-        "username": "edwinsanjo",
-        "email": "edwinsanjosoji@gmail.com"
-    },
-    "record": {
+  "owner": {
+    "username": "edwinsanjo",
+    "email": "edwinsanjosoji@gmail.com"
+  },
+  "record": {
     "NS": [
       "dalary.ns.cloudflare.com",
       "miles.ns.cloudflare.com"
